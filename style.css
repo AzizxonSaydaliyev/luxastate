@@ -206,6 +206,10 @@ nav {
   margin-top: 52px;
   font-size: 15px;
 }
+.all:hover {
+      background: #1f373d;
+      color: #fff;
+}
 .button-search {
   display: flex;
 }
@@ -407,6 +411,10 @@ nav {
   color: #fff;
   margin-top: 60px;
  text-decoration: none;
+}
+.show-more:hover {
+      background: #f2f2f2;
+      color# 000;
 }
 
 /* Footer */
